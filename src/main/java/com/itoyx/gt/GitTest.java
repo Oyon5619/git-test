@@ -8,6 +8,7 @@ public class GitTest {
         System.out.println("Hello GitLab and GGGGIIIITTTT!!!");
         System.out.println("I merge it. --yonsen");
         System.out.println("push test...");
-        System.out.println("pull test...");
+        System.out.println("pull test by github...");
+        System.out.println("pull test by gitee...");
     }
 }
