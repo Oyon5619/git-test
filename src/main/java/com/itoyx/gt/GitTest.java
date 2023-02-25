@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("push test...");
         System.out.println("pull test by github...");
         System.out.println("pull test by gitee...");
+        System.out.println("New pull test by githube...");
     }
 }
