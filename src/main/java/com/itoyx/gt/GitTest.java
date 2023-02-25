@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("Hello Gitee");
         System.out.println("Hello GitLab");
         System.out.println("Hello Java");
+        System.out.println("Hello C");
     }
 }
